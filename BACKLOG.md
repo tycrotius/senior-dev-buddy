@@ -1,16 +1,14 @@
-﻿# BACKLOG - Senior-Dev-Buddy
+﻿# Backlog
 
-### Prio 1
-- [x] -Model und -Temperature Parameter in buddy.ps1 implementieren.
+## To-Do
+- [ ] Implement local-first Open-Source routing configuration (`config.json`) supporting native Ollama / local LLM integration paths to fulfill digital autonomy targets (DI.day compliance).
+- [ ] Develop main CLI execution module framework with automated parameter validation constraints.
+- [ ] Orchestrate standard system auditing/logging layers for script transaction trails.
 
-### Prio 2
-- [x] config.json Validierung (Prüfung, ob Key vorhanden).
+## In Progress / Ongoing
+- [ ] Refactor deployment scripts to move from environmental verification to native file-copying/PATH provisioning mechanics.
 
-### Prio 3
-- [ ] Logging implementieren.
-
-### Prio 4
-- [ ] --raw Flag für reinen Output ohne ASCII-Dekor.
-
-### Prio 5
-- [ ] Installer-Skript um choco-Check erweitern.
+## Done
+- [x] Initial project scaffolding and CRLF line handling enforcement via .gitattributes.
+- [x] Secure Git automation and credential mapping via custom GitHub PAT configuration profiles.
+- [x] Prio 5: Chocolatey installer prerequisite check scripts and negative-path isolation testing suites.

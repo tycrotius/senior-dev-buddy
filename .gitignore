@@ -8,3 +8,8 @@ tests/TestResults.xml
 # Ignore local VS Code/PowerShell settings
 .vscode/
 .DS_Store
+
+# Senior-Dev-Buddy: Block large binary dumps and test pollution
+tests/AppData/
+*.exe
+*.dat
