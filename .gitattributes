@@ -1,0 +1,5 @@
+﻿# Handle line endings explicitly to avoid LF/CRLF warnings
+*.ps1 text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+LICENSE text eol=lf
