@@ -1,0 +1,10 @@
+﻿# Ignore local config
+.config/dev-buddy/config.json
+
+# Ignore build/test artifacts
+tests/TestResults.xml
+*.log
+
+# Ignore local VS Code/PowerShell settings
+.vscode/
+.DS_Store

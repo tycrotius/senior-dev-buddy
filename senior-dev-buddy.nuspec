@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>senior-dev-buddy</id>
+    <version>0.1.0</version>
+    <authors>tycrotius</authors>
+    <description>Senior-Dev-Buddy: Pragmatic AI assistant for the CLI.</description>
+  </metadata>
+  <files>
+    <file src="src\**" target="tools\src" />
+    <file src="tools\buddy.ps1" target="tools\buddy.ps1" />
+  </files>
+</package>
